@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		<View class="flat">
+			<Label id="MonaSymbol"/>
+			<Label id="MonaAmount"> 10,000</Label>
+		</View>
+		<View class="bold">
+			<Label id="MonaSymbol_bold"/>
+			<Label id="MonaAmount_bold"> 10,000</Label>
+		</View>
+	</Window>
+</Alloy>

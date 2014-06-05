@@ -1,0 +1,29 @@
+
+".container": {
+	backgroundColor : "white",
+	layout          : "vertical",
+},
+
+".flat": {
+	top    : "100dp",
+	width  : Ti.UI.SIZE,
+	height : Ti.UI.SIZE,
+	layout : "horizontal",
+},
+
+".bold": {
+	top    : "44dp",
+	width  : Ti.UI.SIZE,
+	height : Ti.UI.SIZE,
+	layout : "horizontal",
+},
+
+"#MonaAmount": {
+	color : "#000",
+	font  : { fontSize:"28dp", fontWeight:'normal', fontFamily:'HelveticaNeue-Light' },
+},
+
+"#MonaAmount_bold": {
+	color : "#000",
+	font  : { fontSize:"28dp", fontWeight:'bold' },
+}
