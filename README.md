@@ -1,13 +1,13 @@
 
 # TiMonacoinFont
 
-A Module for using MonacoinFont in your Titanium Mobile App.
+A Module for using [MonacoinFont](https://github.com/RayKitajima/MonacoinFont) in your Titanium Mobile App.
 
 # How to use
 
 1. clone, copy or download this project or files you want to use.
-2. place lib/MonacoinFont.js into app/lib of your Alloy project.
-3. place fonts/monacoinsign-webfont.ttf into app/assets/fonts of your Alloy project.
+2. place [lib/MonacoinFont.js](https://github.com/RayKitajima/TiMonacoinFont/blob/master/app/lib/MonacoinFont.js) into app/lib of your Alloy project.
+3. place [fonts/monacoinsign-webfont.ttf](https://github.com/RayKitajima/TiMonacoinFont/blob/master/app/fonts/monacoinsign-webfont.ttf) into app/assets/fonts of your Alloy project.
 4. run it
 
 You can find sample implementation in app/{controllers,styles,views}.
