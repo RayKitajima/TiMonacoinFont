@@ -12,7 +12,7 @@ A Module for using [MonacoinFont](https://github.com/RayKitajima/MonacoinFont) i
 
 You may have to attach fontface via alloy controller like this:
 
-```
+```javascript
 var monacoinfont = require('MonacoinFont').getFont();
 
 $.MonaSymbol.setFont({ fontSize:'24dp', fontFamily:monacoinfont.fontfamily() });
